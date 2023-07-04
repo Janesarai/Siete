@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+
+    <style name="Siete2" >
+        <!-- Customize your light theme here. -->
+        <!-- <item name="colorPrimary">@color/my_light_primary</item> -->
+        <item name="colorPrimary">#C1CDD3</item>
+        <item name="android:background">#454544</item>
+        <item name="colorAccent">#6408F8</item>
+    </style>
+
+</resources>
